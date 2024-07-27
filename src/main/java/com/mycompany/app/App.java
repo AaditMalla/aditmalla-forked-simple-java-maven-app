@@ -5,8 +5,8 @@ package com.mycompany.app;
  */
 public class App
 {
-
-    private final String message = "Hello World!";
+    //made a change in below code and added a comment
+    private final String message = "Hello This is a Jenkins CI/CD assignment";
 
     public App() {}
 
